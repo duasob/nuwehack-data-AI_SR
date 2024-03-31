@@ -1,4 +1,4 @@
 venv/
 test.ipynb
 data/train/
-data/test/
+data/test_data/
