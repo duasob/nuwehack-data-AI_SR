@@ -7,8 +7,7 @@ def load_data(file_path):
 
 def clean_data(df):
     # TODO: Handle missing values, outliers, etc.
-
-    return df_clean
+    return df
 
 def preprocess_data(df):
     # TODO: Generate new features, transform existing features, resampling, etc.
